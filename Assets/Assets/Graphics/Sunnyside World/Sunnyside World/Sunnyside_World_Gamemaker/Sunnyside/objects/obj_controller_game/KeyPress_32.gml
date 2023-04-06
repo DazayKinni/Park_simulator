@@ -1,0 +1,1 @@
+CurrencyAdd( choose(CURRENCY.BERRY,CURRENCY.ROCK,CURRENCY.WOOD), irandom_range(1,10) );

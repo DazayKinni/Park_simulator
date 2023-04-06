@@ -1,0 +1,1 @@
+DrawGridHighlight(5,5,c_white,alpha);

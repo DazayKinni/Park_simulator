@@ -1,0 +1,1 @@
+path_speed = Game_GetPaused() ? 0 : mySpd;
