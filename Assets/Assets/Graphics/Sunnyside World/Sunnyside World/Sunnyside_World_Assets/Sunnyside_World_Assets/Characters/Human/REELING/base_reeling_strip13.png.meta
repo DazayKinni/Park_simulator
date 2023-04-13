@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -42,12 +42,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,6 +69,54 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -78,7 +126,280 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: base_reeling_strip13_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 25
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: -0.00030696392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2624d034249a7944bb5730c73619ce0
+      internalID: -1671358677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_reeling_strip13_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 25
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166f0892c13387a4eb08a49ce8235560
+      internalID: -427794519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_reeling_strip13_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 25
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fef38176e228e4c970645c5502ffd2
+      internalID: 1090587332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_reeling_strip13_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 25
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0948300cfd4d3ed4c8641f3473e7eb52
+      internalID: 1523670708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_reeling_strip13_5
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 25
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838fa4672ea9cc642b271396187e33b4
+      internalID: -500563519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_reeling_strip13_6
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 25
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d445ced7099bf9e43b023503b6551231
+      internalID: 2055152117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_reeling_strip13_7
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 25
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955181aee6e335148aecf91cb8f4eec0
+      internalID: -275523184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_reeling_strip13_8
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 25
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae1920a4dc363542a80ef9b1f28b329
+      internalID: -1376006069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_reeling_strip13_9
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 25
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6719a07d0b2946a4a9a061a89cadb8a1
+      internalID: -110284619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_reeling_strip13_10
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 24
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4e51ee1a0c6064d8201c8f4f826b44
+      internalID: -1071611447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_reeling_strip13_12
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 24
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.0625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74decd33b37362e4da377aacd262cc88
+      internalID: -702117884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_reeling_strip13_14
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 23
+        width: 13
+        height: 18
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.11111111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ae38e4c6105b24b995304628b7d72e
+      internalID: -184824401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: base_reeling_strip13_16
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 24
+        width: 13
+        height: 17
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.05882353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339446fc9c8a53a4c95372dc7cbe9baa
+      internalID: -27454251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -89,7 +410,25 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      base_reeling_strip13_10: -1071611447
+      base_reeling_strip13_8: -1376006069
+      base_reeling_strip13_15: 1318662378
+      base_reeling_strip13_5: -500563519
+      base_reeling_strip13_14: -184824401
+      base_reeling_strip13_16: -27454251
+      base_reeling_strip13_2: -427794519
+      base_reeling_strip13_13: 879174168
+      base_reeling_strip13_1: -139183667
+      base_reeling_strip13_7: -275523184
+      base_reeling_strip13_11: -1940952416
+      base_reeling_strip13_3: 1090587332
+      base_reeling_strip13_9: -110284619
+      base_reeling_strip13_17: -869318866
+      base_reeling_strip13_0: -1671358677
+      base_reeling_strip13_6: 2055152117
+      base_reeling_strip13_4: 1523670708
+      base_reeling_strip13_12: -702117884
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
