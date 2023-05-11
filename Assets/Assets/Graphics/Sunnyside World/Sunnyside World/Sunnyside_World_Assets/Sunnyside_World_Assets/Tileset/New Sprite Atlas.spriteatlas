@@ -42,13 +42,11 @@ SpriteAtlas:
   - {fileID: 1016123684, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -461772137, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -2072024505, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -899281765, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1982301415, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1826017723, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1257610740, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 703987596, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1431912426, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1308984127, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -419891189, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1852552172, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1276675196, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -59,7 +57,6 @@ SpriteAtlas:
   - {fileID: -74297981, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -192418205, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -389551730, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1668810513, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -467851981, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -920567265, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1780740224, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -69,7 +66,6 @@ SpriteAtlas:
   - {fileID: 1712543372, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -241983480, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1239478615, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1070821688, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 247656673, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -301401582, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1163298660, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -78,7 +74,6 @@ SpriteAtlas:
   - {fileID: -358433797, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -35025705, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -76852810, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 533884049, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1603928935, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 60851432, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -711106198, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -112,12 +107,10 @@ SpriteAtlas:
   - {fileID: 1246872239, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 721286777, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1235758763, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 467148613, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 735031854, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1403347631, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1902505930, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1126614001, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 451971784, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -706972564, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 5539245, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 126482557, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -128,7 +121,6 @@ SpriteAtlas:
   - {fileID: -2112855099, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1600836996, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 2109654124, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -936030728, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1017863994, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1362437894, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1342360272, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -157,12 +149,10 @@ SpriteAtlas:
   - {fileID: 887737317, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1704037287, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 179233811, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 1791147253, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 85124466, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1351671075, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1801258989, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -2070146885, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1683410760, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 2003118661, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 876445253, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1015056800, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -303,7 +293,6 @@ SpriteAtlas:
   - {fileID: 28248590, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1466458728, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1534537415, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 802632042, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1700259809, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -175668466, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1559622457, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -320,7 +309,6 @@ SpriteAtlas:
   - {fileID: -1972378319, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -666307114, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1628336750, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1179149545, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 605641104, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1667119687, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1945859926, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -333,7 +321,6 @@ SpriteAtlas:
   - {fileID: -1858096808, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -902397220, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -2013290938, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -774123513, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1342939659, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -490020048, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1905187287, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -490,7 +477,6 @@ SpriteAtlas:
   - {fileID: -1334904361, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1579000120, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1625191534, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 812023003, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1145318808, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1225544199, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 909861780, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -640,7 +626,6 @@ SpriteAtlas:
   - {fileID: -35861771, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1927887021, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -2089574455, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -308527163, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 349728650, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -576569254, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1209817932, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -652,7 +637,6 @@ SpriteAtlas:
   - {fileID: 1093925996, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -732869889, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1085550378, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -325267906, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1253329632, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1633123131, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -43123867, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -660,7 +644,6 @@ SpriteAtlas:
   - {fileID: -822531073, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -395740550, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 756923096, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 483510742, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1352943840, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -186763692, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1215860838, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -669,7 +652,6 @@ SpriteAtlas:
   - {fileID: -1599327636, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 963676395, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 2096758838, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1373182692, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -484397142, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 590499323, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1138033422, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -678,7 +660,6 @@ SpriteAtlas:
   - {fileID: 1820321190, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1898554269, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1161052068, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1211803515, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 303092258, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1338153916, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -108002624, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -687,14 +668,12 @@ SpriteAtlas:
   - {fileID: -1262577753, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 865223724, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1397196750, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 1311670184, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 797486869, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1939800523, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 756857790, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1972150233, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -122632457, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 962686206, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1211398406, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 459663695, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -229316890, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -108249085, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -707,10 +686,8 @@ SpriteAtlas:
   - {fileID: 1040152892, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 84000173, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1217983361, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 1728072475, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1900667578, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -783773821, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 299935841, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 805770779, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1279361998, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1997330848, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -726,44 +703,29 @@ SpriteAtlas:
   - {fileID: -1764484974, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 2018343600, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1789565374, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 1958980321, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 223643522, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1608902298, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -2122695600, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1945093349, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1244523898, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1029366639, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1546706919, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1476364839, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 343561607, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -2066005599, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 2108032695, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 157015559, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1999447780, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1919003523, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 780811041, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -182050738, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 1179658781, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 16140471, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1954778174, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -289715053, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 433427276, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 1699759045, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -963646991, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1621247050, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 2096823855, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -2067276570, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 378740710, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1305950041, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1662011233, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 1608982090, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1023029570, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 580142601, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 704716870, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -2129975011, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 593486555, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1073021370, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 1455183295, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1567828592, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 282242890, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1654237849, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -771,7 +733,6 @@ SpriteAtlas:
   - {fileID: 400995221, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 2094996223, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 193550456, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -122955446, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 55081190, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1972643216, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 2071905923, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -782,7 +743,6 @@ SpriteAtlas:
   - {fileID: -183329681, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -433930077, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1893254368, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 1123277507, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1099610825, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1320954572, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1348678259, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -790,7 +750,6 @@ SpriteAtlas:
   - {fileID: 1657646885, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -496289419, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -965533464, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -881850886, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -610444767, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -858433481, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 386535420, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -807,11 +766,9 @@ SpriteAtlas:
   - {fileID: -802712486, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1642125042, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -356084553, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 1290457725, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1189743472, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1250690373, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 638515444, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1556763833, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -2052225160, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -498920902, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1519301824, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -880,7 +837,6 @@ SpriteAtlas:
   - {fileID: -160426987, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -994378872, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1175678211, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 132019468, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 106104658, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -701102161, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1806080839, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -889,7 +845,6 @@ SpriteAtlas:
   - {fileID: -1447138121, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -716375605, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1079468132, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 231089827, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -731528149, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1650861845, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -996846459, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -898,7 +853,6 @@ SpriteAtlas:
   - {fileID: -353447869, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1677569988, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -484947057, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -2036555127, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1239457682, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 2083018521, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1369143434, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -915,14 +869,12 @@ SpriteAtlas:
   - {fileID: 1944537344, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1172428260, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 506474038, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 707832448, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -203420326, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 624562111, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 55353126, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1528586519, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 2054470747, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -662124165, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1188060850, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1700703838, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1931197049, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1417203581, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -937,7 +889,6 @@ SpriteAtlas:
   - {fileID: -1554494355, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1178074409, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 564286814, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1504137424, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1806716668, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1128880504, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -2119478145, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -966,14 +917,12 @@ SpriteAtlas:
   - {fileID: 794943130, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1111757557, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1084232101, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1157607017, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1687097457, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1286529521, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1909290336, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 141097439, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -421871555, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -83415262, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 1213819597, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -754356107, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1274488889, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -203103272, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -985,7 +934,6 @@ SpriteAtlas:
   - {fileID: 684879698, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1270819771, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1713208550, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 1725911404, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -2055880493, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 552488286, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 861440023, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -995,7 +943,6 @@ SpriteAtlas:
   - {fileID: -155543617, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1536155059, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 197123828, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -233977902, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1995081966, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1914127612, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1514511246, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -1026,7 +973,6 @@ SpriteAtlas:
   - {fileID: 1308396271, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1246800801, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -2129937210, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -262386118, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1710000249, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1071412805, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 582690041, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -1059,7 +1005,6 @@ SpriteAtlas:
   - {fileID: 583513193, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -51178058, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1979680486, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -908068998, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 713333977, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1305090300, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 408903857, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -1364,7 +1309,6 @@ SpriteAtlas:
   - {fileID: -2047517029, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -889240217, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1858944381, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1564195502, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -2036699482, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 892295980, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1529154113, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -1378,7 +1322,6 @@ SpriteAtlas:
   - {fileID: -1134413172, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1802216667, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 2056235448, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -20543176, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -666141597, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1589120969, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -517043437, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -1404,7 +1347,6 @@ SpriteAtlas:
   - {fileID: 841857516, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -67941503, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1765659793, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -947498494, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -893030681, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1736155771, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1534965779, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -1547,9 +1489,7 @@ SpriteAtlas:
   - {fileID: 508679096, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 423879067, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 774363628, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 2137371898, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -745878044, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 651437827, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 111436560, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1756428930, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -713138320, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -1638,7 +1578,6 @@ SpriteAtlas:
   - {fileID: 1358914840, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1070100301, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 621145589, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 1436562606, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 572087734, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 482288201, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 848527287, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -1672,7 +1611,6 @@ SpriteAtlas:
   - {fileID: -683516220, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -2052169704, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1438081736, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -422542824, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 473283099, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 999448431, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1119981283, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -1681,7 +1619,6 @@ SpriteAtlas:
   - {fileID: -130475130, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1059085197, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1952847078, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1638476339, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -484373782, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 79095481, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1699702963, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -1691,7 +1628,6 @@ SpriteAtlas:
   - {fileID: 1244550662, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -23020586, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 961917874, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: 2072477620, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 513148697, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -2086552250, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -193842310, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -1701,8 +1637,6 @@ SpriteAtlas:
   - {fileID: -1857535229, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 240510697, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 874142395, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1728426542, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1655251658, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1115430792, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 743243369, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 2086960753, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -1715,7 +1649,6 @@ SpriteAtlas:
   - {fileID: -2090606650, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 2065853872, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -769168733, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1151978603, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 717058982, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -491192120, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 224857932, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
@@ -1728,7 +1661,6 @@ SpriteAtlas:
   - {fileID: -1309639645, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -505465406, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 1644210652, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
-  - {fileID: -1133425837, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: 801935134, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   - {fileID: -1781190791, guid: 142ff1083fc4fbe4d94746b81de9d57b, type: 3}
   m_PackedSpriteNamesToIndex:
@@ -1736,13 +1668,11 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1267
   - spr_tileset_sunnysideworld_16px_307
   - spr_tileset_sunnysideworld_16px_367
-  - spr_tileset_sunnysideworld_16px_377
   - spr_tileset_sunnysideworld_16px_439
   - spr_tileset_sunnysideworld_16px_1522
   - spr_tileset_sunnysideworld_16px_1554
   - spr_tileset_sunnysideworld_16px_481
   - spr_tileset_sunnysideworld_16px_273
-  - spr_tileset_sunnysideworld_16px_263
   - spr_tileset_sunnysideworld_16px_1280
   - spr_tileset_sunnysideworld_16px_1296
   - spr_tileset_sunnysideworld_16px_1256
@@ -1753,7 +1683,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1525
   - spr_tileset_sunnysideworld_16px_1555
   - spr_tileset_sunnysideworld_16px_480
-  - spr_tileset_sunnysideworld_16px_262
   - spr_tileset_sunnysideworld_16px_1281
   - spr_tileset_sunnysideworld_16px_1295
   - spr_tileset_sunnysideworld_16px_1255
@@ -1763,7 +1692,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_371
   - spr_tileset_sunnysideworld_16px_1524
   - spr_tileset_sunnysideworld_16px_1556
-  - spr_tileset_sunnysideworld_16px_261
   - spr_tileset_sunnysideworld_16px_1282
   - spr_tileset_sunnysideworld_16px_1294
   - spr_tileset_sunnysideworld_16px_1254
@@ -1772,7 +1700,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1527
   - spr_tileset_sunnysideworld_16px_1557
   - spr_tileset_sunnysideworld_16px_498
-  - spr_tileset_sunnysideworld_16px_260
   - spr_tileset_sunnysideworld_16px_1283
   - spr_tileset_sunnysideworld_16px_1293
   - spr_tileset_sunnysideworld_16px_1263
@@ -1806,12 +1733,10 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_523
   - spr_tileset_sunnysideworld_16px_533
   - spr_tileset_sunnysideworld_16px_543
-  - spr_tileset_sunnysideworld_16px_379
   - spr_tileset_sunnysideworld_16px_407
   - spr_tileset_sunnysideworld_16px_524
   - spr_tileset_sunnysideworld_16px_532
   - spr_tileset_sunnysideworld_16px_540
-  - spr_tileset_sunnysideworld_16px_378
   - spr_tileset_sunnysideworld_16px_406
   - spr_tileset_sunnysideworld_16px_525
   - spr_tileset_sunnysideworld_16px_531
@@ -1822,7 +1747,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_526
   - spr_tileset_sunnysideworld_16px_530
   - spr_tileset_sunnysideworld_16px_546
-  - spr_tileset_sunnysideworld_16px_554
   - spr_tileset_sunnysideworld_16px_404
   - spr_tileset_sunnysideworld_16px_1559
   - spr_tileset_sunnysideworld_16px_527
@@ -1851,12 +1775,10 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_400
   - spr_tileset_sunnysideworld_16px_1539
   - spr_tileset_sunnysideworld_16px_1403
-  - spr_tileset_sunnysideworld_16px_553
   - spr_tileset_sunnysideworld_16px_355
   - spr_tileset_sunnysideworld_16px_1536
   - spr_tileset_sunnysideworld_16px_1400
   - spr_tileset_sunnysideworld_16px_548
-  - spr_tileset_sunnysideworld_16px_552
   - spr_tileset_sunnysideworld_16px_354
   - spr_tileset_sunnysideworld_16px_1537
   - spr_tileset_sunnysideworld_16px_1401
@@ -1997,7 +1919,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_832
   - spr_tileset_sunnysideworld_16px_828
   - spr_tileset_sunnysideworld_16px_32
-  - spr_tileset_sunnysideworld_16px_52
   - spr_tileset_sunnysideworld_16px_1152
   - spr_tileset_sunnysideworld_16px_775
   - spr_tileset_sunnysideworld_16px_705
@@ -2014,7 +1935,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_862
   - spr_tileset_sunnysideworld_16px_34
   - spr_tileset_sunnysideworld_16px_22
-  - spr_tileset_sunnysideworld_16px_50
   - spr_tileset_sunnysideworld_16px_1154
   - spr_tileset_sunnysideworld_16px_777
   - spr_tileset_sunnysideworld_16px_1142
@@ -2027,7 +1947,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1194
   - spr_tileset_sunnysideworld_16px_35
   - spr_tileset_sunnysideworld_16px_21
-  - spr_tileset_sunnysideworld_16px_51
   - spr_tileset_sunnysideworld_16px_45
   - spr_tileset_sunnysideworld_16px_1155
   - spr_tileset_sunnysideworld_16px_776
@@ -2184,7 +2103,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_994
   - spr_tileset_sunnysideworld_16px_926
   - spr_tileset_sunnysideworld_16px_1673
-  - spr_tileset_sunnysideworld_16px_49
   - spr_tileset_sunnysideworld_16px_720
   - spr_tileset_sunnysideworld_16px_1129
   - spr_tileset_sunnysideworld_16px_884
@@ -2334,7 +2252,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1008
   - spr_tileset_sunnysideworld_16px_164
   - spr_tileset_sunnysideworld_16px_172
-  - spr_tileset_sunnysideworld_16px_100
   - spr_tileset_sunnysideworld_16px_1392
   - spr_tileset_sunnysideworld_16px_1340
   - spr_tileset_sunnysideworld_16px_1009
@@ -2346,7 +2263,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1343
   - spr_tileset_sunnysideworld_16px_166
   - spr_tileset_sunnysideworld_16px_170
-  - spr_tileset_sunnysideworld_16px_146
   - spr_tileset_sunnysideworld_16px_106
   - spr_tileset_sunnysideworld_16px_114
   - spr_tileset_sunnysideworld_16px_1390
@@ -2354,7 +2270,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1334
   - spr_tileset_sunnysideworld_16px_167
   - spr_tileset_sunnysideworld_16px_177
-  - spr_tileset_sunnysideworld_16px_147
   - spr_tileset_sunnysideworld_16px_107
   - spr_tileset_sunnysideworld_16px_117
   - spr_tileset_sunnysideworld_16px_1391
@@ -2363,7 +2278,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1335
   - spr_tileset_sunnysideworld_16px_168
   - spr_tileset_sunnysideworld_16px_176
-  - spr_tileset_sunnysideworld_16px_144
   - spr_tileset_sunnysideworld_16px_104
   - spr_tileset_sunnysideworld_16px_116
   - spr_tileset_sunnysideworld_16px_1396
@@ -2372,7 +2286,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1336
   - spr_tileset_sunnysideworld_16px_169
   - spr_tileset_sunnysideworld_16px_175
-  - spr_tileset_sunnysideworld_16px_145
   - spr_tileset_sunnysideworld_16px_105
   - spr_tileset_sunnysideworld_16px_111
   - spr_tileset_sunnysideworld_16px_1397
@@ -2381,14 +2294,12 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1337
   - spr_tileset_sunnysideworld_16px_1327
   - spr_tileset_sunnysideworld_16px_174
-  - spr_tileset_sunnysideworld_16px_142
   - spr_tileset_sunnysideworld_16px_110
   - spr_tileset_sunnysideworld_16px_1394
   - spr_tileset_sunnysideworld_16px_1386
   - spr_tileset_sunnysideworld_16px_1346
   - spr_tileset_sunnysideworld_16px_1330
   - spr_tileset_sunnysideworld_16px_1326
-  - spr_tileset_sunnysideworld_16px_143
   - spr_tileset_sunnysideworld_16px_113
   - spr_tileset_sunnysideworld_16px_1395
   - spr_tileset_sunnysideworld_16px_1381
@@ -2401,10 +2312,8 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1380
   - spr_tileset_sunnysideworld_16px_1348
   - spr_tileset_sunnysideworld_16px_1332
-  - spr_tileset_sunnysideworld_16px_188
   - spr_tileset_sunnysideworld_16px_1324
   - spr_tileset_sunnysideworld_16px_179
-  - spr_tileset_sunnysideworld_16px_141
   - spr_tileset_sunnysideworld_16px_109
   - spr_tileset_sunnysideworld_16px_1383
   - spr_tileset_sunnysideworld_16px_1333
@@ -2420,44 +2329,29 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1319
   - spr_tileset_sunnysideworld_16px_1320
   - spr_tileset_sunnysideworld_16px_119
-  - spr_tileset_sunnysideworld_16px_199
   - spr_tileset_sunnysideworld_16px_118
   - spr_tileset_sunnysideworld_16px_1338
   - spr_tileset_sunnysideworld_16px_182
-  - spr_tileset_sunnysideworld_16px_198
-  - spr_tileset_sunnysideworld_16px_230
   - spr_tileset_sunnysideworld_16px_1389
   - spr_tileset_sunnysideworld_16px_1339
   - spr_tileset_sunnysideworld_16px_183
-  - spr_tileset_sunnysideworld_16px_231
-  - spr_tileset_sunnysideworld_16px_148
   - spr_tileset_sunnysideworld_16px_1388
   - spr_tileset_sunnysideworld_16px_180
   - spr_tileset_sunnysideworld_16px_1312
-  - spr_tileset_sunnysideworld_16px_232
-  - spr_tileset_sunnysideworld_16px_149
   - spr_tileset_sunnysideworld_16px_181
-  - spr_tileset_sunnysideworld_16px_195
   - spr_tileset_sunnysideworld_16px_1313
-  - spr_tileset_sunnysideworld_16px_233
   - spr_tileset_sunnysideworld_16px_223
   - spr_tileset_sunnysideworld_16px_186
-  - spr_tileset_sunnysideworld_16px_194
   - spr_tileset_sunnysideworld_16px_1310
-  - spr_tileset_sunnysideworld_16px_234
   - spr_tileset_sunnysideworld_16px_222
   - spr_tileset_sunnysideworld_16px_187
   - spr_tileset_sunnysideworld_16px_1329
-  - spr_tileset_sunnysideworld_16px_197
   - spr_tileset_sunnysideworld_16px_1311
-  - spr_tileset_sunnysideworld_16px_235
   - spr_tileset_sunnysideworld_16px_221
   - spr_tileset_sunnysideworld_16px_245
   - spr_tileset_sunnysideworld_16px_184
   - spr_tileset_sunnysideworld_16px_1328
-  - spr_tileset_sunnysideworld_16px_196
   - spr_tileset_sunnysideworld_16px_1316
-  - spr_tileset_sunnysideworld_16px_236
   - spr_tileset_sunnysideworld_16px_220
   - spr_tileset_sunnysideworld_16px_216
   - spr_tileset_sunnysideworld_16px_244
@@ -2465,7 +2359,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_191
   - spr_tileset_sunnysideworld_16px_1317
   - spr_tileset_sunnysideworld_16px_237
-  - spr_tileset_sunnysideworld_16px_227
   - spr_tileset_sunnysideworld_16px_217
   - spr_tileset_sunnysideworld_16px_247
   - spr_tileset_sunnysideworld_16px_1204
@@ -2476,7 +2369,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_214
   - spr_tileset_sunnysideworld_16px_246
   - spr_tileset_sunnysideworld_16px_1205
-  - spr_tileset_sunnysideworld_16px_193
   - spr_tileset_sunnysideworld_16px_1315
   - spr_tileset_sunnysideworld_16px_239
   - spr_tileset_sunnysideworld_16px_225
@@ -2484,7 +2376,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_209
   - spr_tileset_sunnysideworld_16px_241
   - spr_tileset_sunnysideworld_16px_1206
-  - spr_tileset_sunnysideworld_16px_192
   - spr_tileset_sunnysideworld_16px_224
   - spr_tileset_sunnysideworld_16px_212
   - spr_tileset_sunnysideworld_16px_208
@@ -2501,11 +2392,9 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1249
   - spr_tileset_sunnysideworld_16px_1201
   - spr_tileset_sunnysideworld_16px_1215
-  - spr_tileset_sunnysideworld_16px_229
   - spr_tileset_sunnysideworld_16px_211
   - spr_tileset_sunnysideworld_16px_1202
   - spr_tileset_sunnysideworld_16px_1214
-  - spr_tileset_sunnysideworld_16px_228
   - spr_tileset_sunnysideworld_16px_1203
   - spr_tileset_sunnysideworld_16px_1213
   - spr_tileset_sunnysideworld_16px_1212
@@ -2574,7 +2463,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1226
   - spr_tileset_sunnysideworld_16px_1234
   - spr_tileset_sunnysideworld_16px_310
-  - spr_tileset_sunnysideworld_16px_326
   - spr_tileset_sunnysideworld_16px_1593
   - spr_tileset_sunnysideworld_16px_1583
   - spr_tileset_sunnysideworld_16px_470
@@ -2583,7 +2471,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1227
   - spr_tileset_sunnysideworld_16px_1237
   - spr_tileset_sunnysideworld_16px_317
-  - spr_tileset_sunnysideworld_16px_327
   - spr_tileset_sunnysideworld_16px_1594
   - spr_tileset_sunnysideworld_16px_1582
   - spr_tileset_sunnysideworld_16px_449
@@ -2592,7 +2479,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1224
   - spr_tileset_sunnysideworld_16px_1236
   - spr_tileset_sunnysideworld_16px_316
-  - spr_tileset_sunnysideworld_16px_324
   - spr_tileset_sunnysideworld_16px_388
   - spr_tileset_sunnysideworld_16px_1595
   - spr_tileset_sunnysideworld_16px_1581
@@ -2609,14 +2495,12 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_291
   - spr_tileset_sunnysideworld_16px_1230
   - spr_tileset_sunnysideworld_16px_314
-  - spr_tileset_sunnysideworld_16px_322
   - spr_tileset_sunnysideworld_16px_338
   - spr_tileset_sunnysideworld_16px_1597
   - spr_tileset_sunnysideworld_16px_1587
   - spr_tileset_sunnysideworld_16px_418
   - spr_tileset_sunnysideworld_16px_1547
   - spr_tileset_sunnysideworld_16px_1233
-  - spr_tileset_sunnysideworld_16px_323
   - spr_tileset_sunnysideworld_16px_1598
   - spr_tileset_sunnysideworld_16px_1586
   - spr_tileset_sunnysideworld_16px_461
@@ -2631,7 +2515,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1519
   - spr_tileset_sunnysideworld_16px_1545
   - spr_tileset_sunnysideworld_16px_319
-  - spr_tileset_sunnysideworld_16px_321
   - spr_tileset_sunnysideworld_16px_399
   - spr_tileset_sunnysideworld_16px_1584
   - spr_tileset_sunnysideworld_16px_463
@@ -2660,14 +2543,12 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_593
   - spr_tileset_sunnysideworld_16px_331
   - spr_tileset_sunnysideworld_16px_349
-  - spr_tileset_sunnysideworld_16px_381
   - spr_tileset_sunnysideworld_16px_1588
   - spr_tileset_sunnysideworld_16px_467
   - spr_tileset_sunnysideworld_16px_417
   - spr_tileset_sunnysideworld_16px_1508
   - spr_tileset_sunnysideworld_16px_1540
   - spr_tileset_sunnysideworld_16px_592
-  - spr_tileset_sunnysideworld_16px_330
   - spr_tileset_sunnysideworld_16px_382
   - spr_tileset_sunnysideworld_16px_466
   - spr_tileset_sunnysideworld_16px_410
@@ -2679,7 +2560,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1510
   - spr_tileset_sunnysideworld_16px_506
   - spr_tileset_sunnysideworld_16px_594
-  - spr_tileset_sunnysideworld_16px_328
   - spr_tileset_sunnysideworld_16px_332
   - spr_tileset_sunnysideworld_16px_344
   - spr_tileset_sunnysideworld_16px_384
@@ -2689,7 +2569,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1569
   - spr_tileset_sunnysideworld_16px_507
   - spr_tileset_sunnysideworld_16px_597
-  - spr_tileset_sunnysideworld_16px_329
   - spr_tileset_sunnysideworld_16px_335
   - spr_tileset_sunnysideworld_16px_345
   - spr_tileset_sunnysideworld_16px_385
@@ -2720,7 +2599,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1502
   - spr_tileset_sunnysideworld_16px_1570
   - spr_tileset_sunnysideworld_16px_1462
-  - spr_tileset_sunnysideworld_16px_502
   - spr_tileset_sunnysideworld_16px_518
   - spr_tileset_sunnysideworld_16px_598
   - spr_tileset_sunnysideworld_16px_336
@@ -2753,7 +2631,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1465
   - spr_tileset_sunnysideworld_16px_1471
   - spr_tileset_sunnysideworld_16px_1415
-  - spr_tileset_sunnysideworld_16px_501
   - spr_tileset_sunnysideworld_16px_343
   - spr_tileset_sunnysideworld_16px_1506
   - spr_tileset_sunnysideworld_16px_1574
@@ -3058,7 +2935,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_18
   - spr_tileset_sunnysideworld_16px_74
   - spr_tileset_sunnysideworld_16px_1698
-  - spr_tileset_sunnysideworld_16px_98
   - spr_tileset_sunnysideworld_16px_787
   - spr_tileset_sunnysideworld_16px_747
   - spr_tileset_sunnysideworld_16px_757
@@ -3072,7 +2948,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_19
   - spr_tileset_sunnysideworld_16px_75
   - spr_tileset_sunnysideworld_16px_69
-  - spr_tileset_sunnysideworld_16px_99
   - spr_tileset_sunnysideworld_16px_780
   - spr_tileset_sunnysideworld_16px_756
   - spr_tileset_sunnysideworld_16px_764
@@ -3098,7 +2973,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1649
   - spr_tileset_sunnysideworld_16px_77
   - spr_tileset_sunnysideworld_16px_67
-  - spr_tileset_sunnysideworld_16px_97
   - spr_tileset_sunnysideworld_16px_782
   - spr_tileset_sunnysideworld_16px_754
   - spr_tileset_sunnysideworld_16px_762
@@ -3241,9 +3115,7 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1369
   - spr_tileset_sunnysideworld_16px_128
   - spr_tileset_sunnysideworld_16px_1368
-  - spr_tileset_sunnysideworld_16px_151
   - spr_tileset_sunnysideworld_16px_129
-  - spr_tileset_sunnysideworld_16px_150
   - spr_tileset_sunnysideworld_16px_1370
   - spr_tileset_sunnysideworld_16px_153
   - spr_tileset_sunnysideworld_16px_1371
@@ -3332,7 +3204,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_258
   - spr_tileset_sunnysideworld_16px_1279
   - spr_tileset_sunnysideworld_16px_1351
-  - spr_tileset_sunnysideworld_16px_259
   - spr_tileset_sunnysideworld_16px_1278
   - spr_tileset_sunnysideworld_16px_450
   - spr_tileset_sunnysideworld_16px_451
@@ -3366,7 +3237,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_497
   - spr_tileset_sunnysideworld_16px_487
   - spr_tileset_sunnysideworld_16px_275
-  - spr_tileset_sunnysideworld_16px_269
   - spr_tileset_sunnysideworld_16px_302
   - spr_tileset_sunnysideworld_16px_362
   - spr_tileset_sunnysideworld_16px_458
@@ -3375,7 +3245,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_490
   - spr_tileset_sunnysideworld_16px_486
   - spr_tileset_sunnysideworld_16px_276
-  - spr_tileset_sunnysideworld_16px_268
   - spr_tileset_sunnysideworld_16px_1253
   - spr_tileset_sunnysideworld_16px_303
   - spr_tileset_sunnysideworld_16px_363
@@ -3385,7 +3254,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_491
   - spr_tileset_sunnysideworld_16px_485
   - spr_tileset_sunnysideworld_16px_277
-  - spr_tileset_sunnysideworld_16px_267
   - spr_tileset_sunnysideworld_16px_1284
   - spr_tileset_sunnysideworld_16px_1252
   - spr_tileset_sunnysideworld_16px_1268
@@ -3395,8 +3263,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1521
   - spr_tileset_sunnysideworld_16px_492
   - spr_tileset_sunnysideworld_16px_484
-  - spr_tileset_sunnysideworld_16px_270
-  - spr_tileset_sunnysideworld_16px_266
   - spr_tileset_sunnysideworld_16px_1285
   - spr_tileset_sunnysideworld_16px_1299
   - spr_tileset_sunnysideworld_16px_1251
@@ -3409,7 +3275,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_493
   - spr_tileset_sunnysideworld_16px_483
   - spr_tileset_sunnysideworld_16px_271
-  - spr_tileset_sunnysideworld_16px_265
   - spr_tileset_sunnysideworld_16px_1286
   - spr_tileset_sunnysideworld_16px_1298
   - spr_tileset_sunnysideworld_16px_1250
@@ -3422,7 +3287,6 @@ SpriteAtlas:
   - spr_tileset_sunnysideworld_16px_1523
   - spr_tileset_sunnysideworld_16px_482
   - spr_tileset_sunnysideworld_16px_272
-  - spr_tileset_sunnysideworld_16px_264
   - spr_tileset_sunnysideworld_16px_1287
   - spr_tileset_sunnysideworld_16px_1297
   m_RenderDataMap: {}
