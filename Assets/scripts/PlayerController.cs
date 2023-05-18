@@ -4,13 +4,10 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-
+    //Variables
     Rigidbody2D body;
-    
-
     float horizontal;
     float vertical;
-
     [SerializeField] float playerSpeed = 20.0f;
     Animator anim;
     [Header("Attack prefs")]
@@ -19,29 +16,33 @@ public class PlayerController : MonoBehaviour
     bool isBusy = false;
     private SpriteRenderer sr;
     [SerializeField] float rollStrenght = 5;
+    [Space]
+    [Header("Weapon")]
+    [SerializeField] GameObject sword;
+    private SpriteRenderer srSword;
     
     
-
+    //Start
     void Start()
     {
         body = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         sr = GetComponent<SpriteRenderer>();
+        srSword = sword.GetComponent<SpriteRenderer>(); 
     }
-
+    //FixedUpdate
     void FixedUpdate()
     {
-        
-        
         MovePlayer();
-        MovementAnimation();
-        
+        MovementAnimation();  
     }
+    //Update
     private void Update()
     {
         Attack();
         Roll();
     }
+    //Player's Movement
     void MovePlayer()
     {
         horizontal = Input.GetAxis("Horizontal");
@@ -54,7 +55,7 @@ public class PlayerController : MonoBehaviour
             body.velocity = new Vector2(horizontal, vertical) * playerSpeed;
         }
     }
-
+    //Animations for Movement
     void MovementAnimation()
     {
         float currentSpeed = body.velocity.sqrMagnitude;
@@ -62,21 +63,27 @@ public class PlayerController : MonoBehaviour
         if(horizontal < 0)
         {
             sr.flipX = true;
+            srSword.flipX = true;
         }
         else if(horizontal > 0)
         {
             sr.flipX=false;
+            srSword.flipX = false;
         }
     }
-
+    //Attack
     private void Attack()
     {
         if (Input.GetKeyDown(KeyCode.F) &&
             anim.GetCurrentAnimatorClipInfo(0)[0].clip.name != "Attack")
         {
             anim.SetTrigger("Attack");
+            ActivateSword();
+            Invoke("DeactivateSword", 0.833f);
         }
+
     }
+    //Roll
     private void Roll()
     {
         if (Input.GetKeyDown(KeyCode.Q) &&
@@ -87,11 +94,23 @@ public class PlayerController : MonoBehaviour
 
         }
     }
+
     private void OnDrawGizmos()
     {
+        //draw a circle which shows radius of attack 
         Gizmos.color = Color.yellow;
         Gizmos.DrawWireSphere(transform.position + attackOffset, attackradius);
     }
+    private void ActivateSword()
+    {
+        sword.SetActive(true);
+    }
+    private void DeactivateSword()
+    {
+        sword.SetActive(false);
+    }
+
+
 
 
 }

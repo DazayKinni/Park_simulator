@@ -23,8 +23,22 @@ public class House : MonoBehaviour
     {
         if(collision.gameObject.tag == "Player")
         {
-            roof.SetActive(false);
-            interior.SetActive(true);
+            if(roof.activeSelf == true)
+            {
+                roof.SetActive(false);
+                interior.SetActive(true);
+            }
+            else
+            {
+                roof.SetActive(true); 
+                interior.SetActive(false);
+            }
+           
+            
         }
     }
+
+
+   
+
 }
