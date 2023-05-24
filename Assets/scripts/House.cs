@@ -16,7 +16,7 @@ public class House : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        print("hello world");
+        
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

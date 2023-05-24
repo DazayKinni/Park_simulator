@@ -11,10 +11,11 @@ public class EnemyController : MonoBehaviour
     private Transform player; // ссылка на игрока
     private bool isAttacking; // флаг, указывающий, атакует ли враг
     private NavMeshAgent agent;
-    private Trees[] trees;
+    private TreeManager treeManager;
 
     private void Start()
     {
+        treeManager = GameObject.FindGameObjectWithTag("Tree Manager").GetComponent<TreeManager>();
         player = GameObject.FindGameObjectWithTag("Player").transform; // ищем игрока по тэгу "Player"
         agent = GetComponent<NavMeshAgent>();
         agent.updateRotation = false;
@@ -45,7 +46,8 @@ public class EnemyController : MonoBehaviour
     }
     private void Move()
     {
-        agent.SetDestination(player.position);
+        Tree nearestTree = treeManager.GetNearestTree(transform.position);
+        agent.SetDestination(nearestTree.transform.position);
     }
 }
 
