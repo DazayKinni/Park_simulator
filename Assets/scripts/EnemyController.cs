@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class EnemyController : MonoBehaviour
 {
@@ -9,34 +10,20 @@ public class EnemyController : MonoBehaviour
     public int attackDamage = 10; // урон атаки
     private Transform player; // ссылка на игрока
     private bool isAttacking; // флаг, указывающий, атакует ли враг
+    private NavMeshAgent agent;
+    private Trees[] trees;
 
     private void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player").transform; // ищем игрока по тэгу "Player"
+        agent = GetComponent<NavMeshAgent>();
+        agent.updateRotation = false;
+        agent.updateUpAxis = false;
     }
 
     private void Update()
     {
-        // рассчитываем направление движения к игроку
-        Vector3 direction = player.position - transform.position;
-        direction.z = 0; // игнорируем глубину
-
-        // если игрок находится в зоне атаки, начинаем атаковать
-        if (direction.magnitude <= attackDistance)
-        {
-            isAttacking = true;
-        }
-
-        // если не атакуем, двигаемся к игроку
-        if (!isAttacking)
-        {
-            transform.position += direction.normalized * speed * Time.deltaTime;
-        }
-        // если атакуем, останавливаемся перед игроком и атакуем
-        else
-        {
-            //TODO: добавить атаку игрока, например: player.TakeDamage(attackDamage);
-        }
+        Move();
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -55,6 +42,10 @@ public class EnemyController : MonoBehaviour
         {
             isAttacking = false;
         }
+    }
+    private void Move()
+    {
+        agent.SetDestination(player.position);
     }
 }
 
