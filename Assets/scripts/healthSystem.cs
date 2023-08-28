@@ -19,6 +19,6 @@ public class healthSystem : MonoBehaviour
     }
     public void ChangeHealth(int value = +20)
     {
-      health += value  
+        health += value;
     }
 }
