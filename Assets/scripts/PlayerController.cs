@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerController : MonoBehaviour
 {
@@ -20,21 +21,28 @@ public class PlayerController : MonoBehaviour
     [Header("Weapon")]
     [SerializeField] GameObject sword;
     private SpriteRenderer srSword;
-    
-    
+    float maxStamina = 100;
+    float stamina = 100;
+    [SerializeField] float deltaStaminaRoll = 30;
+    [SerializeField] float deltaStaminaAttack = 20;
+    [SerializeField] Image staminaImage;
+
+
     //Start
     void Start()
     {
         body = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         sr = GetComponent<SpriteRenderer>();
-        srSword = sword.GetComponent<SpriteRenderer>(); 
+        srSword = sword.GetComponent<SpriteRenderer>();
+        stamina = maxStamina;
     }
     //FixedUpdate
     void FixedUpdate()
     {
         MovePlayer();
-        MovementAnimation();  
+        MovementAnimation(); 
+        
     }
     //Update
     private void Update()
@@ -75,11 +83,13 @@ public class PlayerController : MonoBehaviour
     private void Attack()
     {
         if (Input.GetKeyDown(KeyCode.F) &&
-            anim.GetCurrentAnimatorClipInfo(0)[0].clip.name != "Attack")
+            anim.GetCurrentAnimatorClipInfo(0)[0].clip.name != "Attack" && stamina >= deltaStaminaAttack)
         {
+            stamina -= deltaStaminaAttack;
             anim.SetTrigger("Attack");
             ActivateSword();
             Invoke("DeactivateSword", 0.833f);
+            RenderStamina();
         }
 
     }
@@ -87,10 +97,12 @@ public class PlayerController : MonoBehaviour
     private void Roll()
     {
         if (Input.GetKeyDown(KeyCode.Q) &&
-                anim.GetCurrentAnimatorClipInfo(0)[0].clip.name == "Walk")
+                anim.GetCurrentAnimatorClipInfo(0)[0].clip.name == "Walk" && stamina >= deltaStaminaRoll)
         {
+            stamina -= deltaStaminaRoll;
             anim.SetTrigger("Roll");
             body.AddForce(body.velocity.normalized * rollStrenght, ForceMode2D.Impulse);
+            RenderStamina();
 
         }
     }
@@ -108,6 +120,11 @@ public class PlayerController : MonoBehaviour
     private void DeactivateSword()
     {
         sword.SetActive(false);
+    }
+
+    void RenderStamina()
+    {
+        staminaImage.fillAmount = (float)stamina / maxStamina;
     }
 
 

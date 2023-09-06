@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Tree : MonoBehaviour
 {
+    int amountOfColliders = 0;
     SpriteRenderer spriteRenderer;
     
     //start
@@ -23,6 +24,7 @@ public class Tree : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player" || collision.gameObject.tag == "Enemy")
         {
+            amountOfColliders++; 
             Color color = spriteRenderer.color;
             color.a = 0.5f;
             spriteRenderer.color = color;
@@ -33,9 +35,15 @@ public class Tree : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player" || collision.gameObject.tag == "Enemy")
         {
-            Color color = spriteRenderer.color;
-            color.a = 0.5f;
-            spriteRenderer.color = color;
+            amountOfColliders--;
+            if ( amountOfColliders == 0)
+            {
+                Color color = spriteRenderer.color;
+                color.a = 1;
+                spriteRenderer.color = color;
+            }
+            
+            
         }
 
 
