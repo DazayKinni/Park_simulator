@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -26,6 +27,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float deltaStaminaRoll = 30;
     [SerializeField] float deltaStaminaAttack = 20;
     [SerializeField] Image staminaImage;
+    float staminaRegenSpeed = 10;
 
 
     //Start
@@ -36,6 +38,7 @@ public class PlayerController : MonoBehaviour
         sr = GetComponent<SpriteRenderer>();
         srSword = sword.GetComponent<SpriteRenderer>();
         stamina = maxStamina;
+        StartCoroutine("StaminaRegeneration");
     }
     //FixedUpdate
     void FixedUpdate()
@@ -72,11 +75,13 @@ public class PlayerController : MonoBehaviour
         {
             sr.flipX = true;
             srSword.flipX = true;
+            attackOffset.x = -Mathf.Abs(attackOffset.x);
         }
         else if(horizontal > 0)
         {
             sr.flipX=false;
             srSword.flipX = false;
+            attackOffset.x = Mathf.Abs(attackOffset.x);
         }
     }
     //Attack
@@ -90,6 +95,7 @@ public class PlayerController : MonoBehaviour
             ActivateSword();
             Invoke("DeactivateSword", 0.833f);
             RenderStamina();
+            
         }
 
     }
@@ -125,6 +131,25 @@ public class PlayerController : MonoBehaviour
     void RenderStamina()
     {
         staminaImage.fillAmount = (float)stamina / maxStamina;
+    }
+
+    IEnumerator StaminaRegeneration()
+    {
+        while (true)
+        {
+            if(stamina < maxStamina)
+            {
+                stamina += staminaRegenSpeed/24.0f;
+                if (stamina > maxStamina)
+                {
+                    stamina = maxStamina;
+                }
+
+            }
+            RenderStamina();
+            yield return new WaitForSeconds(1/24.0f);
+             
+        }
     }
 
 
