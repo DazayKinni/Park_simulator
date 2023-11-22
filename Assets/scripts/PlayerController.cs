@@ -95,6 +95,15 @@ public class PlayerController : MonoBehaviour
             ActivateSword();
             Invoke("DeactivateSword", 0.833f);
             RenderStamina();
+
+            Collider2D[] colliders = Physics2D.OverlapCircleAll(transform.position + attackOffset, attackradius);
+            for(int i = 0; i < colliders.Length; i++)
+            {
+                if (colliders[i].gameObject.tag == "Enemy")
+                {
+                    print("kurwa");
+                }
+            }
             
         }
 
