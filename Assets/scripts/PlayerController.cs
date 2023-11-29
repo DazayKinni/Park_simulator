@@ -28,6 +28,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] float deltaStaminaAttack = 20;
     [SerializeField] Image staminaImage;
     float staminaRegenSpeed = 10;
+    [SerializeField] float playerDamage = 10;
 
 
     //Start
@@ -39,6 +40,7 @@ public class PlayerController : MonoBehaviour
         srSword = sword.GetComponent<SpriteRenderer>();
         stamina = maxStamina;
         StartCoroutine("StaminaRegeneration");
+        
     }
     //FixedUpdate
     void FixedUpdate()
@@ -96,14 +98,7 @@ public class PlayerController : MonoBehaviour
             Invoke("DeactivateSword", 0.833f);
             RenderStamina();
 
-            Collider2D[] colliders = Physics2D.OverlapCircleAll(transform.position + attackOffset, attackradius);
-            for(int i = 0; i < colliders.Length; i++)
-            {
-                if (colliders[i].gameObject.tag == "Enemy")
-                {
-                    print("kurwa");
-                }
-            }
+            
             
         }
 
@@ -158,6 +153,18 @@ public class PlayerController : MonoBehaviour
             RenderStamina();
             yield return new WaitForSeconds(1/24.0f);
              
+        }
+    }
+    public void CheckAttack()
+    {
+        Collider2D[] colliders = Physics2D.OverlapCircleAll(transform.position + attackOffset, attackradius);
+        for (int i = 0; i < colliders.Length; i++)
+        {
+            if (colliders[i].gameObject.tag == "Enemy")
+            {
+                EnemyHealth enemyHealth = colliders[i].GetComponent<EnemyHealth>();
+                enemyHealth.GetDamage(playerDamage);
+            }
         }
     }
 

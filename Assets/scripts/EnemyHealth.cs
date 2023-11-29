@@ -6,12 +6,17 @@ using UnityEngine.UI;
 public class EnemyHealth : MonoBehaviour
 {
     [SerializeField] float health = 50;
+    [SerializeField] float maxhealth = 50;
 
     [SerializeField] private Image healthBar;
 
     private void Start()
     {
         
+    }
+    private void Update()
+    {
+        HealthRender();
     }
 
     public void GetDamage(float damage)
@@ -22,5 +27,12 @@ public class EnemyHealth : MonoBehaviour
             Destroy(gameObject);
         }
     }
+
+    void HealthRender()
+    {
+        healthBar.fillAmount = (float)health / maxhealth;
+    }
+
+    
 }
 
