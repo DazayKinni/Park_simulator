@@ -9,10 +9,11 @@ public class EnemyHealth : MonoBehaviour
     [SerializeField] float maxhealth = 50;
 
     [SerializeField] private Image healthBar;
+    Animator animator;
 
     private void Start()
     {
-        
+        animator = GetComponent<Animator>();    
     }
     private void Update()
     {
@@ -21,7 +22,9 @@ public class EnemyHealth : MonoBehaviour
 
     public void GetDamage(float damage)
     {
+        animator.SetTrigger("Hurt");
         health -= damage;
+        
         if(health < 0.01f)
         {
             Destroy(gameObject);
