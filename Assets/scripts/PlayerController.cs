@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
+using Cinemachine;
 
 public class PlayerController : MonoBehaviour
 {
@@ -19,7 +20,7 @@ public class PlayerController : MonoBehaviour
     private SpriteRenderer sr;
     [SerializeField] float rollStrenght = 5;
     [Space]
-    [Header("Weapon")]
+    [Header("Weapo0n")]
     [SerializeField] GameObject sword;
     private SpriteRenderer srSword;
     float maxStamina = 100;
@@ -29,6 +30,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] Image staminaImage;
     float staminaRegenSpeed = 10;
     [SerializeField] float playerDamage = 10;
+    CinemachineImpulseSource impulseSource;
 
 
     //Start
@@ -40,6 +42,7 @@ public class PlayerController : MonoBehaviour
         srSword = sword.GetComponent<SpriteRenderer>();
         stamina = maxStamina;
         StartCoroutine("StaminaRegeneration");
+        impulseSource = GetComponent<CinemachineImpulseSource>();   
         
     }
     //FixedUpdate
@@ -157,6 +160,7 @@ public class PlayerController : MonoBehaviour
     }
     public void CheckAttack()
     {
+        impulseSource.GenerateImpulse();
         Collider2D[] colliders = Physics2D.OverlapCircleAll(transform.position + attackOffset, attackradius);
         for (int i = 0; i < colliders.Length; i++)
         {
